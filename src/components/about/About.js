@@ -38,11 +38,12 @@ export const About = () => {
               <small>FrontEnd / BackEnd Development</small>
             </article>
             </div>
-          <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam
-            deleniti ea nulla consequuntur dolorem id eligendi libero sequi
-            illum! Omnis deleniti nobis explicabo? Sit iusto, tenetur debitis
-            sed quo vero!
+          <p style={{textAlign:'center'}}>
+           I am a Front-End Developer with serious passion for designing, creating engaging and dynamic user experience contents or in general 'CODING'. 
+           Also, currently in learning about behind the scenes(BackEnd Development) to well established myself as a Full Stack Mern Developer. 
+           <br/>
+           <br/>
+           Let's create something big. 
           </p>
           <div className="change_btn">
           <a href="#contact" className=" btn btn-primary">Let's Talk</a>

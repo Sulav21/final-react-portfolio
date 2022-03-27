@@ -73,6 +73,11 @@ header{
     transition: var(--transition); */
 }
 
+.type-writer{
+    font-size: 1rem;
+    color:var(--color-white);
+}
+
 /* .header_me:hover{
     transform: rotate(0);
 } */
